@@ -10,7 +10,7 @@ const generateQR = async (text) => {
         background: 'white',
         image: 'https://pngimg.com/uploads/fanta/fanta_PNG57.png',
         data: {
-          shape: 'node',
+          shape: 'hex',
           gradient: ['orange', 'yellow']
         },
         inner: {
