@@ -4,22 +4,22 @@
     
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29" shape-rendering="geometricPrecision">
     <defs>
-    <linearGradient id="patternData" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="0.3955559941626663__patternData" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="orange"></stop>
     <stop offset="100%" stop-color="yellow"></stop>
     </linearGradient>
-    <linearGradient id="patternInner" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="0.3955559941626663__patternInner" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="orange"></stop>
     <stop offset="100%" stop-color="yellow"></stop>
     </linearGradient>
-    <linearGradient id="patternOuter" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="0.3955559941626663__patternOuter" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="orange"></stop>
     <stop offset="100%" stop-color="yellow"></stop>
     </linearGradient>
-    <pattern id="patternImage" viewBox="0 0  29 29" x="0" y="0" width="100%" height="100%">
+    <pattern id="0.3955559941626663__patternImage" viewBox="0 0  29 29" x="0" y="0" width="100%" height="100%">
     <image href="https://pngimg.com/uploads/fanta/fanta_PNG57.png" width="100%" height="100%"></image>
     </pattern>
-    <mask id="maskData"><g fill="#fff" stroke="#fff" stroke-width="0.04"><g transform="translate(12,4)"><path d='M 0.72 0.86 H 0.27 L 0 0.4 L 0.27 0 h 0.47 l 0.27 0.4 L 0.72 0.86 z z'></path></g>
+    <mask id="0.3955559941626663__maskData"><g fill="#fff" stroke="#fff" stroke-width="0.04"><g transform="translate(12,4)"><path d='M 0.72 0.86 H 0.27 L 0 0.4 L 0.27 0 h 0.47 l 0.27 0.4 L 0.72 0.86 z z'></path></g>
 <g transform="translate(14,4)"><path d='M 0.72 0.86 H 0.27 L 0 0.4 L 0.27 0 h 0.47 l 0.27 0.4 L 0.72 0.86 z z'></path></g>
 <g transform="translate(12,5)"><path d='M 0.72 0.86 H 0.27 L 0 0.4 L 0.27 0 h 0.47 l 0.27 0.4 L 0.72 0.86 z z'></path></g>
 <g transform="translate(16,5)"><path d='M 0.72 0.86 H 0.27 L 0 0.4 L 0.27 0 h 0.47 l 0.27 0.4 L 0.72 0.86 z z'></path></g>
@@ -139,7 +139,7 @@
 <g transform="translate(21,24)"><path d='M 0.72 0.86 H 0.27 L 0 0.4 L 0.27 0 h 0.47 l 0.27 0.4 L 0.72 0.86 z z'></path></g>
 <g transform="translate(22,24)"><path d='M 0.72 0.86 H 0.27 L 0 0.4 L 0.27 0 h 0.47 l 0.27 0.4 L 0.72 0.86 z z'></path></g>
 <g transform="translate(23,24)"><path d='M 0.72 0.86 H 0.27 L 0 0.4 L 0.27 0 h 0.47 l 0.27 0.4 L 0.72 0.86 z z'></path></g></g></mask>
-    <mask id="maskInner"><g fill="#fff" stroke="#fff" stroke-width="0.02"><g transform="translate(6,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+    <mask id="0.3955559941626663__maskInner"><g fill="#fff" stroke="#fff" stroke-width="0.02"><g transform="translate(6,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(7,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,6)"><path d='M 1 1 H 0 V 0 l 0.5 0 c 0.2833 0 0.5 0.2167 0.5 0.5 V 1 z'></path></g>
 <g transform="translate(20,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
@@ -166,7 +166,7 @@
 <g transform="translate(6,22)"><path d='M 1 1 H 0.5 C 0.2167 1 0 0.7833 0 0.5 V 0 l 1 0 V 1 z'></path></g>
 <g transform="translate(7,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g></g></mask>
-    <mask id="maskOuter"><g fill="#fff" stroke="#fff" stroke-width="0.02"><g transform="translate(4,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+    <mask id="0.3955559941626663__maskOuter"><g fill="#fff" stroke="#fff" stroke-width="0.02"><g transform="translate(4,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(5,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(6,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(7,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
@@ -238,21 +238,21 @@
 <g transform="translate(8,24)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(9,24)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(10,24)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g></g></mask>
-    <mask id="maskCenter"><g fill="#fff" stroke="#fff" stroke-width="0.04">undefined</g></mask>
+    <mask id="0.3955559941626663__maskCenter"><g fill="#fff" stroke="#fff" stroke-width="0.04">undefined</g></mask>
     </defs>
     <rect x="0" y="0" width="100%" height="100%" fill="white"></rect>
-    <rect x="0" y="0" width="100%" height="100%" mask="url(#maskData)" fill="url(#patternData)"></rect>
-    <rect x="0" y="0" width="100%" height="100%" mask="url(#maskInner)" fill="url(#patternInner)"></rect>
-    <rect x="0" y="0" width="100%" height="100%" mask="url(#maskOuter)" fill="url(#patternOuter)"></rect>
-    <rect x="13.5" y="13.5" width="3" height="3" fill="url(#patternImage)"></rect>
+    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.3955559941626663__maskData)" fill="url(#0.3955559941626663__patternData)"></rect>
+    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.3955559941626663__maskInner)" fill="url(#0.3955559941626663__patternInner)"></rect>
+    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.3955559941626663__maskOuter)" fill="url(#0.3955559941626663__patternOuter)"></rect>
+    <rect x="13.5" y="13.5" width="3" height="3" fill="url(#0.3955559941626663__patternImage)"></rect>
     </svg>
     </g>
     <defs>
-    <linearGradient id="patternBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="0.3955559941626663__patternBorder" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="transparent"></stop>
     <stop offset="100%" stop-color="transparent"></stop>
     </linearGradient>
-    <mask id="maskBorder"><g fill="#fff"><path d='M 0 0 L 0 100 L 100 100 L 100 0 Z M 97 97 L 3 97 L 3 3 L 97 3 Z'/></g></mask>
+    <mask id="0.3955559941626663__maskBorder"><g fill="#fff"><path d='M 0 0 L 0 100 L 100 100 L 100 0 Z M 97 97 L 3 97 L 3 3 L 97 3 Z'/></g></mask>
     </defs>
-    <rect x="0" y="0" width="100%" height="100%" mask="url(#maskBorder)" fill="url(#patternBorder)"></rect>
+    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.3955559941626663__maskBorder)" fill="url(#0.3955559941626663__patternBorder)"></rect>
     </svg>
