@@ -11,15 +11,15 @@ const generateQR = async (text) => {
         image: 'https://pngimg.com/uploads/fanta/fanta_PNG57.png',
         data: {
           shape: 'hex',
-          gradient: ['orange', 'yellow']
+          gradient: ['red', 'red']
         },
         inner: {
-          shape: 'kite',
-          gradient: ['orange', 'yellow']
+          shape: 'dot',
+          gradient: ['red', 'red']
         },
         outer: {
-          shape: 'kite',
-          gradient: ['orange', 'yellow']
+          shape: 'dot',
+          gradient: ['red', 'red']
         }
       }
     });
@@ -28,4 +28,4 @@ const generateQR = async (text) => {
   }
 };
 
-generateQR('he');
+generateQR('Preview code');
