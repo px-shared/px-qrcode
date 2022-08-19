@@ -5,22 +5,13 @@ const generateQR = async (text) => {
     const svg = await QRCode.toFile('example.svg', text, {
       errorCorrectionLevel: 'H',
       type: 'svg',
-      margin: 4,
+      margin: 2,
       format: {
         background: 'white',
-        image: 'https://pngimg.com/uploads/fanta/fanta_PNG57.png',
-        data: {
-          shape: 'hex',
-          gradient: ['red', 'red']
-        },
-        inner: {
-          shape: 'dot',
-          gradient: ['red', 'red']
-        },
-        outer: {
-          shape: 'dot',
-          gradient: ['red', 'red']
-        }
+        data: { shape: 'diamond', gradient: ['#d2045644', '#c60865ff'] },
+        inner: { shape: 'kite', gradient: ['#d2045644', '#7820c5ff'] },
+        outer: { shape: 'kite', gradient: ['#d2045644', '#7820c5ff'] },
+        image: 'https://pngimg.com/uploads/wikipedia/wikipedia_PNG35.png'
       }
     });
   } catch (err) {
@@ -28,4 +19,4 @@ const generateQR = async (text) => {
   }
 };
 
-generateQR('Preview code');
+generateQR('Example');

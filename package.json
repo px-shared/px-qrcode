@@ -1,5 +1,5 @@
 {
-  "name": "px-qrcode",
+  "name": "qrcode",
   "description": "QRCodes with server side support",
   "version": "1.5.1",
   "main": "./lib/index.js",
