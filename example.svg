@@ -1,377 +1,190 @@
 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" shape-rendering="geometricPrecision">
-    <g transform="translate(0,0)">
-    
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33" shape-rendering="geometricPrecision">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" shape-rendering="geometricPrecision">
     <defs>
-    <linearGradient id="0.12366161832631528__patternData" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="0.7458350165865821__patternData" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#d2045644"></stop>
     <stop offset="100%" stop-color="#c60865ff"></stop>
     </linearGradient>
-    <linearGradient id="0.12366161832631528__patternInner" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="0.7458350165865821__patternInner" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#d2045644"></stop>
     <stop offset="100%" stop-color="#7820c5ff"></stop>
     </linearGradient>
-    <linearGradient id="0.12366161832631528__patternOuter" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="0.7458350165865821__patternOuter" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#d2045644"></stop>
     <stop offset="100%" stop-color="#7820c5ff"></stop>
     </linearGradient>
-    <pattern id="0.12366161832631528__patternImage" viewBox="0 0 33 33" x="0" y="0" width="100%" height="100%">
-    <image href="https://pngimg.com/uploads/wikipedia/wikipedia_PNG35.png" width="100%" height="100%"></image>
-    </pattern>
-    <mask id="0.12366161832631528__maskData"><g fill="#fff" stroke="#fff" stroke-width="0.04"><g transform="translate(13,2)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(14,2)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(16,2)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(17,2)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(19,2)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(20,2)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(21,2)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(10,3)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,3)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(13,3)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(14,3)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(16,3)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,3)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,4)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+    <mask id="0.7458350165865821__maskData"><g fill="#fff" stroke="#fff" stroke-width="0.04"><g transform="translate(10,3)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(10,4)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(13,4)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(14,4)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(16,4)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(17,4)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(19,4)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(21,4)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,4)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,5)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,5)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(14,5)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(17,5)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(21,5)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(10,5)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(13,5)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(10,6)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(11,6)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(13,6)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(15,6)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(17,6)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(18,6)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(20,6)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(12,6)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(14,6)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(10,7)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,7)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(15,7)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(16,7)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(20,7)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(21,7)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,7)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(10,8)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(12,8)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(14,8)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(16,8)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(18,8)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(20,8)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,8)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(10,9)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(11,9)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(15,9)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(16,9)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(17,9)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(18,9)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(19,9)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(20,9)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(6,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(12,9)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(13,9)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(4,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(7,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(8,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(9,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(10,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(12,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(14,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(16,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(15,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(17,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(18,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(19,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(20,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(24,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(25,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(5,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(14,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(17,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(18,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(21,10)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(2,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(3,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(6,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(15,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(20,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(21,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(22,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(24,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(25,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(26,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,11)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(2,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(3,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(4,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(5,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(7,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(8,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(10,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(16,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(17,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(18,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(19,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(20,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(22,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(23,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(26,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(27,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(28,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,12)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(2,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(3,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(4,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(6,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(9,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(10,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(14,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(15,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(23,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(17,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(19,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(21,13)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(2,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(3,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(5,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(6,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(8,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(20,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(21,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(25,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(27,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(3,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(7,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(9,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(10,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(15,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(18,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(19,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(22,14)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(10,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(12,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(13,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(24,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(26,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(28,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(3,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(7,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(8,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(9,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(16,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(18,15)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(10,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(11,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(13,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(23,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(26,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(3,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(4,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(14,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(16,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(18,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(20,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(22,16)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(10,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(12,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(20,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(23,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(25,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(27,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(2,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(5,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(8,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(10,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(16,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(19,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(21,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(22,17)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(11,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(20,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(21,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(23,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(25,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(2,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(5,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(6,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(7,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(9,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(12,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(14,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(15,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(16,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(19,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(22,18)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(13,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(23,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(24,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(26,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(4,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(5,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(7,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(8,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(9,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(14,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(18,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(19,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(20,19)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(10,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(15,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(16,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(19,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(18,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(20,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(26,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(27,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(28,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(6,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(9,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(10,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(21,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(22,20)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(11,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(14,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(15,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(16,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(17,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(18,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(21,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(27,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(2,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(3,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(6,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(7,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(8,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(10,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(13,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(19,21)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(11,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(14,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(16,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
+<g transform="translate(17,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
 <g transform="translate(18,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(20,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(23,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(24,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(25,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(26,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(10,23)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,23)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,23)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(13,23)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(16,23)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(17,23)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(18,23)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,23)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(26,23)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(28,23)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,23)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,23)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(10,24)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,24)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,24)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(13,24)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(16,24)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(21,24)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,24)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(24,24)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(26,24)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,24)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(10,25)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,25)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(14,25)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(15,25)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(17,25)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(19,25)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(21,25)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,25)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(26,25)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(27,25)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,25)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(10,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(13,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(17,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(19,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(21,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(23,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(24,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(25,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(26,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,26)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,27)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(13,27)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(20,27)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(25,27)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(27,27)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(28,27)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,27)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,28)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,28)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(14,28)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(18,28)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(21,28)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,28)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(23,28)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(27,28)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(28,28)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,28)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,28)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,29)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(13,29)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(15,29)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(17,29)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(19,29)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(21,29)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,29)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(23,29)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(25,29)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(27,29)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,29)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(30,29)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(11,30)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(12,30)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(14,30)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(15,30)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(16,30)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(19,30)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(20,30)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(22,30)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(24,30)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(26,30)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g>
-<g transform="translate(29,30)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g></g></mask>
-    <mask id="0.12366161832631528__maskInner"><g fill="#fff" stroke="#fff" stroke-width="0.02"><g transform="translate(4,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(22,22)"><path transform='translate(0.5, -0.25) rotate(45)' d='M 0.15 0.15 H 0.85 V 0.85 H 0.15 Z'></path></g></g></mask>
+    <mask id="0.7458350165865821__maskInner"><g fill="#fff" stroke="#fff" stroke-width="0.02"><g transform="translate(4,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(5,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(6,4)"><path d='M 1 1 H 0 V 0 l 0.5 0 c 0.2833 0 0.5 0.2167 0.5 0.5 V 1 z'></path></g>
-<g transform="translate(26,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(27,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(28,4)"><path d='M 1 1 H 0 V 0 l 0.5 0 c 0.2833 0 0.5 0.2167 0.5 0.5 V 1 z'></path></g>
+<g transform="translate(18,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(19,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(20,4)"><path d='M 1 1 H 0 V 0 l 0.5 0 c 0.2833 0 0.5 0.2167 0.5 0.5 V 1 z'></path></g>
 <g transform="translate(4,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(5,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(6,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(26,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(27,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(28,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(18,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(19,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(20,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(4,6)"><path d='M 1 1 H 0.5 C 0.2167 1 0 0.7833 0 0.5 V 0 l 1 0 V 1 z'></path></g>
 <g transform="translate(5,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(6,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(26,6)"><path d='M 1 1 H 0.5 C 0.2167 1 0 0.7833 0 0.5 V 0 l 1 0 V 1 z'></path></g>
-<g transform="translate(27,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(28,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(4,26)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(5,26)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(6,26)"><path d='M 1 1 H 0 V 0 l 0.5 0 c 0.2833 0 0.5 0.2167 0.5 0.5 V 1 z'></path></g>
-<g transform="translate(4,27)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(5,27)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(6,27)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(4,28)"><path d='M 1 1 H 0.5 C 0.2167 1 0 0.7833 0 0.5 V 0 l 1 0 V 1 z'></path></g>
-<g transform="translate(5,28)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(6,28)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g></g></mask>
-    <mask id="0.12366161832631528__maskOuter"><g fill="#fff" stroke="#fff" stroke-width="0.02"><g transform="translate(2,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(18,6)"><path d='M 1 1 H 0.5 C 0.2167 1 0 0.7833 0 0.5 V 0 l 1 0 V 1 z'></path></g>
+<g transform="translate(19,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(20,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(4,18)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(5,18)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(6,18)"><path d='M 1 1 H 0 V 0 l 0.5 0 c 0.2833 0 0.5 0.2167 0.5 0.5 V 1 z'></path></g>
+<g transform="translate(4,19)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(5,19)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(6,19)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(4,20)"><path d='M 1 1 H 0.5 C 0.2167 1 0 0.7833 0 0.5 V 0 l 1 0 V 1 z'></path></g>
+<g transform="translate(5,20)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(6,20)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g></g></mask>
+    <mask id="0.7458350165865821__maskOuter"><g fill="#fff" stroke="#fff" stroke-width="0.02"><g transform="translate(2,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(3,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(4,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(5,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(6,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(7,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,2)"><path d='M 1 1 H 0 V 0 l 0.5 0 c 0.2833 0 0.5 0.2167 0.5 0.5 V 1 z'></path></g>
-<g transform="translate(24,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(25,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(26,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(27,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(28,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(29,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(30,2)"><path d='M 1 1 H 0 V 0 l 0.5 0 c 0.2833 0 0.5 0.2167 0.5 0.5 V 1 z'></path></g>
+<g transform="translate(16,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(17,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(18,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(19,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(20,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(21,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(22,2)"><path d='M 1 1 H 0 V 0 l 0.5 0 c 0.2833 0 0.5 0.2167 0.5 0.5 V 1 z'></path></g>
 <g transform="translate(2,3)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,3)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(24,3)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(30,3)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(16,3)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(22,3)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(2,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(24,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(30,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(16,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(22,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(2,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(24,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(30,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(16,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(22,5)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(2,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(24,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(30,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(16,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(22,6)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(2,7)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,7)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(24,7)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(30,7)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(16,7)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(22,7)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(2,8)"><path d='M 1 1 H 0.5 C 0.2167 1 0 0.7833 0 0.5 V 0 l 1 0 V 1 z'></path></g>
 <g transform="translate(3,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(4,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
@@ -379,52 +192,42 @@
 <g transform="translate(6,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(7,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(24,8)"><path d='M 1 1 H 0.5 C 0.2167 1 0 0.7833 0 0.5 V 0 l 1 0 V 1 z'></path></g>
-<g transform="translate(25,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(26,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(27,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(28,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(29,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(30,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(2,24)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(3,24)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(4,24)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(5,24)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(6,24)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(7,24)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(8,24)"><path d='M 1 1 H 0 V 0 l 0.5 0 c 0.2833 0 0.5 0.2167 0.5 0.5 V 1 z'></path></g>
-<g transform="translate(2,25)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(8,25)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(2,26)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(8,26)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(2,27)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(8,27)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(2,28)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(8,28)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(2,29)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(8,29)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(2,30)"><path d='M 1 1 H 0.5 C 0.2167 1 0 0.7833 0 0.5 V 0 l 1 0 V 1 z'></path></g>
-<g transform="translate(3,30)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(4,30)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(5,30)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(6,30)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(7,30)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
-<g transform="translate(8,30)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g></g></mask>
-    <mask id="0.12366161832631528__maskCenter"><g fill="#fff" stroke="#fff" stroke-width="0.04">undefined</g></mask>
+<g transform="translate(16,8)"><path d='M 1 1 H 0.5 C 0.2167 1 0 0.7833 0 0.5 V 0 l 1 0 V 1 z'></path></g>
+<g transform="translate(17,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(18,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(19,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(20,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(21,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(22,8)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(2,16)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(3,16)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(4,16)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(5,16)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(6,16)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(7,16)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(8,16)"><path d='M 1 1 H 0 V 0 l 0.5 0 c 0.2833 0 0.5 0.2167 0.5 0.5 V 1 z'></path></g>
+<g transform="translate(2,17)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(8,17)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(2,18)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(8,18)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(2,19)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(8,19)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(2,20)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(8,20)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(2,21)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(8,21)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(2,22)"><path d='M 1 1 H 0.5 C 0.2167 1 0 0.7833 0 0.5 V 0 l 1 0 V 1 z'></path></g>
+<g transform="translate(3,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(4,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(5,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(6,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(7,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(8,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g></g></mask>
+    <mask id="0.7458350165865821__maskCenter"><g fill="#fff" stroke="#fff" stroke-width="0.04">undefined</g></mask>
     </defs>
     <rect x="0" y="0" width="100%" height="100%" fill="white"></rect>
-    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.12366161832631528__maskData)" fill="url(#0.12366161832631528__patternData)"></rect>
-    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.12366161832631528__maskInner)" fill="url(#0.12366161832631528__patternInner)"></rect>
-    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.12366161832631528__maskOuter)" fill="url(#0.12366161832631528__patternOuter)"></rect>
-    <rect x="14.5" y="14.5" width="5" height="5" fill="url(#0.12366161832631528__patternImage)"></rect>
-    </svg>
-    </g>
-    <defs>
-    <linearGradient id="0.12366161832631528__patternBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop offset="0%" stop-color="transparent"></stop>
-    <stop offset="100%" stop-color="transparent"></stop>
-    </linearGradient>
-    <mask id="0.12366161832631528__maskBorder"><g fill="#fff"><path d='M 0 0 L 0 100 L 100 100 L 100 0 Z M 97 97 L 3 97 L 3 3 L 97 3 Z'/></g></mask>
-    </defs>
-    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.12366161832631528__maskBorder)" fill="url(#0.12366161832631528__patternBorder)"></rect>
+    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.7458350165865821__maskData)" fill="url(#0.7458350165865821__patternData)"></rect>
+    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.7458350165865821__maskInner)" fill="url(#0.7458350165865821__patternInner)"></rect>
+    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.7458350165865821__maskOuter)" fill="url(#0.7458350165865821__patternOuter)"></rect>
+    <image href="https://pngimg.com/uploads/wikipedia/wikipedia_PNG35.png" x="11.5" y="11.5" width="3" height="3"></image>
     </svg>
