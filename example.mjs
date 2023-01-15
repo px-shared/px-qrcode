@@ -8,10 +8,11 @@ const generateQR = async (text) => {
       margin: 2,
       format: {
         background: 'white',
-        data: { shape: 'diamond', gradient: ['#d2045644', '#c60865ff'] },
-        inner: { shape: 'kite', gradient: ['#d2045644', '#7820c5ff'] },
-        outer: { shape: 'kite', gradient: ['#d2045644', '#7820c5ff'] },
-        image: 'https://pngimg.com/uploads/wikipedia/wikipedia_PNG35.png'
+        data: { shape: 'square', gradient: ['#000', '#000'] },
+        inner: { shape: 'square', gradient: ['#000', '#000'] },
+        outer: { shape: 'square', gradient: ['#000', '#000'] },
+        image:
+          'https://www.qr-code-generator.com/wp-content/themes/qr/new_structure/assets/media/images/api_page/elements/logos/scan-me-square.svg'
       }
     });
   } catch (err) {
