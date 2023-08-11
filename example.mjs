@@ -8,8 +8,12 @@ const generateQR = async (text) => {
       margin: 2,
       format: {
         background: 'white',
-        data: { shape: 'square', gradient: ['#000', '#000'] },
-        inner: { shape: 'square', gradient: ['#000', '#000'] },
+        data: {
+          shape: 'square',
+          gradient: ['#000', '#000'],
+          opacity: ['1', '0.5']
+        },
+        inner: { shape: 'square', gradient: ['#00000099', '#000'] },
         outer: { shape: 'square', gradient: ['#000', '#000'] },
         image:
           'https://www.qr-code-generator.com/wp-content/themes/qr/new_structure/assets/media/images/api_page/elements/logos/scan-me-square.svg'
