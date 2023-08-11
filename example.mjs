@@ -15,8 +15,7 @@ const generateQR = async (text) => {
         },
         inner: { shape: 'square', gradient: ['#00000099', '#000'] },
         outer: { shape: 'square', gradient: ['#000', '#000'] },
-        image:
-          'https://www.qr-code-generator.com/wp-content/themes/qr/new_structure/assets/media/images/api_page/elements/logos/scan-me-square.svg'
+        image: ''
       }
     });
   } catch (err) {

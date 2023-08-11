@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" shape-rendering="geometricPrecision">
     <defs>
-    <linearGradient id="0.6954784530431073__patternData" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="0.29568896266157063__patternData" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#000" stop-opacity="1"></stop>
     <stop offset="100%" stop-color="#000" stop-opacity="0.5"></stop>
     </linearGradient>
-    <linearGradient id="0.6954784530431073__patternInner" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="0.29568896266157063__patternInner" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#000000" stop-opacity="0.60"></stop>
     <stop offset="100%" stop-color="#000" stop-opacity="1"></stop>
     </linearGradient>
-    <linearGradient id="0.6954784530431073__patternOuter" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="0.29568896266157063__patternOuter" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#000" stop-opacity="1"></stop>
     <stop offset="100%" stop-color="#000" stop-opacity="1"></stop>
     </linearGradient>
-    <mask id="0.6954784530431073__maskData"><g fill="#fff" stroke="#fff" stroke-width="0.04"><g transform="translate(10,3)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+    <mask id="0.29568896266157063__maskData"><g fill="#fff" stroke="#fff" stroke-width="0.04"><g transform="translate(10,3)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(10,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(13,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(14,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
@@ -34,6 +34,10 @@
 <g transform="translate(7,10)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,10)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(9,10)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(10,10)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(12,10)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(14,10)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(15,10)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(17,10)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(18,10)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(19,10)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
@@ -42,6 +46,8 @@
 <g transform="translate(2,11)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(3,11)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(6,11)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(13,11)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(15,11)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(20,11)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(21,11)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(22,11)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
@@ -50,6 +56,10 @@
 <g transform="translate(4,12)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(7,12)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,12)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(10,12)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(11,12)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(12,12)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(14,12)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(16,12)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(17,12)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(18,12)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
@@ -60,6 +70,8 @@
 <g transform="translate(4,13)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(6,13)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(9,13)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(12,13)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(15,13)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(17,13)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(19,13)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(21,13)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
@@ -67,9 +79,17 @@
 <g transform="translate(3,14)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(5,14)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,14)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(10,14)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(11,14)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(12,14)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(13,14)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(15,14)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(18,14)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(19,14)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(22,14)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(10,15)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(12,15)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+<g transform="translate(13,15)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(16,15)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(18,15)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(10,16)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
@@ -112,7 +132,7 @@
 <g transform="translate(17,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(18,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(22,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g></g></mask>
-    <mask id="0.6954784530431073__maskInner"><g fill="#fff" stroke="#fff" stroke-width="0.02"><g transform="translate(4,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+    <mask id="0.29568896266157063__maskInner"><g fill="#fff" stroke="#fff" stroke-width="0.02"><g transform="translate(4,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(5,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(6,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(18,4)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
@@ -139,7 +159,7 @@
 <g transform="translate(4,20)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(5,20)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(6,20)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g></g></mask>
-    <mask id="0.6954784530431073__maskOuter"><g fill="#fff" stroke="#fff" stroke-width="0.02"><g transform="translate(2,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
+    <mask id="0.29568896266157063__maskOuter"><g fill="#fff" stroke="#fff" stroke-width="0.02"><g transform="translate(2,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(3,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(4,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(5,2)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
@@ -211,11 +231,11 @@
 <g transform="translate(6,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(7,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g>
 <g transform="translate(8,22)"><path d='M 0,0 H 1 V 1 H 0 Z'></path></g></g></mask>
-    <mask id="0.6954784530431073__maskCenter"><g fill="#fff" stroke="#fff" stroke-width="0.04">undefined</g></mask>
+    <mask id="0.29568896266157063__maskCenter"><g fill="#fff" stroke="#fff" stroke-width="0.04">undefined</g></mask>
     </defs>
-    <rect x="0" y="0" width="100%" height="100%" fill="none"></rect>
-    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.6954784530431073__maskData)" fill="url(#0.6954784530431073__patternData)"></rect>
-    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.6954784530431073__maskInner)" fill="url(#0.6954784530431073__patternInner)"></rect>
-    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.6954784530431073__maskOuter)" fill="url(#0.6954784530431073__patternOuter)"></rect>
-    <image href="https://www.qr-code-generator.com/wp-content/themes/qr/new_structure/assets/media/images/api_page/elements/logos/scan-me-square.svg" x="10.5" y="10.5" width="5" height="5"></image>
+    <rect x="0" y="0" width="100%" height="100%" fill="white"></rect>
+    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.29568896266157063__maskData)" fill="url(#0.29568896266157063__patternData)"></rect>
+    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.29568896266157063__maskInner)" fill="url(#0.29568896266157063__patternInner)"></rect>
+    <rect x="0" y="0" width="100%" height="100%" mask="url(#0.29568896266157063__maskOuter)" fill="url(#0.29568896266157063__patternOuter)"></rect>
+    
     </svg>
