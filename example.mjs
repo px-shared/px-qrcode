@@ -5,17 +5,55 @@ const generateQR = async (text) => {
     const svg = await QRCode.toFile('example.svg', text, {
       errorCorrectionLevel: 'H',
       type: 'svg',
+      image: '',
       margin: 2,
       format: {
         background: 'white',
         data: {
           shape: 'square',
-          gradient: ['#000', '#000'],
-          opacity: ['1', '0.5']
+          gradient: {
+            start: {
+              color: '#3e23bfff'
+            },
+            end: {
+              color: '#ffffff'
+            }
+          }
         },
-        inner: { shape: 'square', gradient: ['#00000099', '#000'] },
-        outer: { shape: 'square', gradient: ['#000', '#000'] },
-        image: ''
+        inner: {
+          shape: 'square',
+          gradient: {
+            start: {
+              color: 'black',
+              opacity: '1',
+              x: '0%',
+              y: '0%'
+            },
+            end: {
+              color: 'black',
+              opacity: '1',
+              x: '100%',
+              y: '100%'
+            }
+          }
+        },
+        outer: {
+          shape: 'square',
+          gradient: {
+            start: {
+              color: 'black',
+              opacity: '1',
+              x: '0%',
+              y: '0%'
+            },
+            end: {
+              color: 'black',
+              opacity: '1',
+              x: '100%',
+              y: '100%'
+            }
+          }
+        }
       }
     });
   } catch (err) {
