@@ -1,7 +1,7 @@
 {
   "name": "qrcode",
   "description": "QRCodes with server side support",
-  "version": "2.2.0",
+  "version": "3.0.0",
   "main": "./lib/index.js",
   "browser": {
     "./lib/index.js": "./lib/browser.js",
